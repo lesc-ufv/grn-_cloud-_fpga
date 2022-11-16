@@ -1,0 +1,9 @@
+[submodule "grnDerridaPlot"]
+	path = grnDerridaPlot
+	url = https://github.com/jeronimopenha/grnDerridaPlot.git
+[submodule "grn_acc"]
+	path = grn_acc
+	url = https://github.com/jeronimopenha/grn_acc.git
+[submodule "grn_benchmarks"]
+	path = grn_benchmarks
+	url = https://github.com/jeronimopenha/grn_benchmarks.git
